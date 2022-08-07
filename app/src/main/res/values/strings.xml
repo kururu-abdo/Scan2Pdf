@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scan2Pdf</string>
+    <string name="home">Home</string>
+    <string name="Scans">Scans</string>
+    <string name="result_app_bar_title">Scan Result</string>
+    <string name="camera_txt">Camera</string>
+    <string name="gallery_txt">Gallery</string>
+    <string name="unit_id">ca-app-pub-7478831906269239/7233548955</string>
+
+</resources>

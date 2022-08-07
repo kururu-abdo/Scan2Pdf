@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">التحول ل بي دف</string>
+
+    <string name="home">الرئيسية</string>
+    <string name="Scans">ملفاتي</string>
+    <string name="result_app_bar_title">النتيجة </string>
+    <string name="camera_txt">كاميرا</string>
+    <string name="gallery_txt">المعرض</string>
+    <string name="unit_id">ca-app-pub-7478831906269239/7233548955</string>
+
+</resources>
